@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-graphql-apollo",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "repository": "https://github.com/Lkoenig2121/nodejs-graphql-apollo.git",
+  "author": "Lukas Koenig <Lkoenig2121@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./index.mjs"
+  },
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "colors": "^1.4.0",
+    "graphql": "^16.9.0",
+    "nodemon": "^3.1.4"
+  }
+}
